@@ -1,0 +1,5 @@
+{
+  "name": " DOTS Program Calculator4 copy",
+  "description": "An application to calculate and manage DOTS (Directly Observed Treatment, Short-course) program data for tuberculosis patients for the first half, second half, and full year, based on patient treatment start dates and smear results.",
+  "requestFramePermissions": []
+}
